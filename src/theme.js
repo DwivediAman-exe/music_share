@@ -3,6 +3,7 @@ import { purple, teal } from '@mui/material/colors';
 
 const theme = createTheme({
 	palette: {
+		type: 'dark',
 		primary: teal,
 		secondary: purple,
 	},

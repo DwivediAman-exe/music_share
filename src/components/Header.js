@@ -5,7 +5,7 @@ import React from 'react';
 
 const useStyles = makeStyles((theme) => ({
 	title: {
-		marginLeft: theme.spacing(2),
+		marginLeft: theme.spacing(3),
 	},
 }));
 
